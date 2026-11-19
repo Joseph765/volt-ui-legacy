@@ -6,7 +6,7 @@
         Flex,
         Link,
         Text
-    } from "$lib";
+    } from "#lib";
     import CodeExample from "../components/CodeExample.svelte";
 </script>
 

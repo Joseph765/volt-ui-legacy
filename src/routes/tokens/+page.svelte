@@ -5,7 +5,7 @@
         CopyCode,
         Flex,
         Text
-    } from "$lib";
+    } from "#lib";
     import CopyColorScale from "./CopyColorScale.svelte";
 </script>
 

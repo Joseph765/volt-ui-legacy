@@ -13,7 +13,7 @@
         TableHeader,
         TableRow,
         Text
-    } from "$lib";
+    } from "#lib";
 </script>
 
 <Container size="xl">

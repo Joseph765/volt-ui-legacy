@@ -14,7 +14,7 @@
         NavItem,
         Select,
         Text
-    } from "$lib";
+    } from "#lib";
     import CodeExample from "../CodeExample.svelte";
 
     let options = [
@@ -41,7 +41,7 @@
         NavGroupItem,
         NavItem,
         Text
-    } from "$lib";
+    } from "#lib";
 
     /** @type { boolean } */
     let open = false;

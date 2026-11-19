@@ -5,7 +5,7 @@
         Icon,
         Input,
         Text
-    } from "$lib";
+    } from "#lib";
     
     let componentResults = components;
     let searchTerm = "";

@@ -13,7 +13,7 @@
         Text,
         Toast,
         ToastGroup
-    } from "$lib";
+    } from "#lib";
     import CodeExample from "../CodeExample.svelte";
 
     let options = $state([
@@ -24,7 +24,7 @@
     let selectedExample = $state('basic');
 
     let example1 = `<script>
-    import { Button, Toast, ToastGroup } from "$lib";
+    import { Button, Toast, ToastGroup } from "#lib";
 
     /**
      * @typedef { object } Toast
@@ -76,7 +76,7 @@
     {/each}
 </ToastGroup>`;
     let example2 = `<script>
-    import { Button, Toast, ToastGroup } from "$lib";
+    import { Button, Toast, ToastGroup } from "#lib";
 
     /**
      * @typedef { object } Toast

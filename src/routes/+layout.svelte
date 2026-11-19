@@ -1,5 +1,5 @@
 <script>
-    import "$lib/css/index.css";
+    import "#lib/css/index.css";
     import { page } from '$app/state'; 
     import components from "./components/components.json";
 
@@ -12,7 +12,7 @@
         NavGroup,
         NavGroupItem,
         NavItem
-    } from "$lib";
+    } from "#lib";
 
     /** @type { boolean } */
     let open = false;

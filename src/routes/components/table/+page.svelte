@@ -11,7 +11,7 @@
         TableHeader,
         TableRow,
         Text
-    } from "$lib";
+    } from "#lib";
     import CodeExample from "../CodeExample.svelte";
 
     let options = [
@@ -34,7 +34,7 @@
         TableHead,
         TableHeader,
         TableRow
-    } from "$lib";
+    } from "#lib";
 <\/script>
 
 <Table>
@@ -71,7 +71,7 @@
         TableHead,
         TableHeader,
         TableRow
-    } from "$lib";
+    } from "#lib";
 <\/script>
 
 <Table striped>
@@ -119,7 +119,7 @@
         TableHead,
         TableHeader,
         TableRow
-    } from "$lib";
+    } from "#lib";
 <\/script>
 
 <Card space="none" variant="ghost">
@@ -159,7 +159,7 @@
         TableHead,
         TableHeader,
         TableRow
-    } from "$lib";
+    } from "#lib";
 <\/script>
 
 <Card space="none" variant="ghost">
@@ -199,7 +199,7 @@
         TableHead,
         TableHeader,
         TableRow
-    } from "$lib";
+    } from "#lib";
 <\/script>
 
 <Card space="none" variant="ghost">
@@ -239,7 +239,7 @@
         TableHead,
         TableHeader,
         TableRow
-    } from "$lib";
+    } from "#lib";
 <\/script>
 
 <Card space="none" variant="ghost">
@@ -280,7 +280,7 @@
         TableHeader,
         TableRow,
         Text
-    } from "$lib";
+    } from "#lib";
 <\/script>
 
 <Table>

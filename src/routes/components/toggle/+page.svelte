@@ -11,7 +11,7 @@
         TableRow,
         Text,
         Toggle
-    } from "$lib";
+    } from "#lib";
     import CodeExample from "../CodeExample.svelte";
 
     let options = [

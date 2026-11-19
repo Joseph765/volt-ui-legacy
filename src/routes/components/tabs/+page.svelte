@@ -12,7 +12,7 @@
         TableRow,
         Tabs,
         Text
-    } from "$lib";
+    } from "#lib";
     import CodeExample from "../CodeExample.svelte";
 
     let options = [
